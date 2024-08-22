@@ -1,4 +1,4 @@
-package selsup;
+package crpt;
 
 import com.fasterxml.jackson.core.JsonProcessingException;
 import com.fasterxml.jackson.databind.ObjectMapper;
@@ -184,8 +184,7 @@ public class CrptApi {
     }
 }
 
-// Этого не было сказано, но я решил написать тесты,
-// так как это помогает выявлять баги и писать качественный код
+// Tests
 
 //package selsup;
 //
